@@ -1,0 +1,22 @@
+{
+  "name": "deliasex",
+  "version": "1.0.0",
+  "description": "An open-source AI chatbot based on my ex. Closure is temporary. git clone is forever.",
+  "main": "server.js",
+  "scripts": {
+    "heartbreak": "node server.js",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["chatbot", "ai", "parody", "emotional-damage", "mit"],
+  "license": "MIT"
+}

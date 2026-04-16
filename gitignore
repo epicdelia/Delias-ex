@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.log
+data/raw/
+# Don't commit actual chat exports — that's the whole ethics section of the README
+data/*.txt
+data/*.zip
